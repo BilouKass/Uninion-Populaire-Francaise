@@ -10,7 +10,7 @@
 #flag {
     position: relative;
     float:  right;
-    bottom: 70px;
+    bottom: 50px;
     
 }
 
@@ -19,7 +19,7 @@
     position: relative;
     float: left;
     width: 180px;
-    bottom: 95px;
+    bottom: 80px;
 }
 
 .prog{
