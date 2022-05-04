@@ -34,7 +34,7 @@ body{
 
 #buton_candidat {
     position: relative;
-    left: 120px;
+    left: 5%;
 	box-shadow:inset 0px 1px 13px -50px #f29c93;
 	background:linear-gradient(to bottom, #fe1a00 5%, #ce0100 100%);
 	background-color:#fe1a00;
@@ -61,7 +61,7 @@ body{
 }
 #insta_button {
     position: relative;
-    right: 120px;
+    right: 5%;
 	box-shadow:inset 0px 1px 13px -50px #97c4fe;
 	background:linear-gradient(to bottom, #3d94f6 5%, #1e62d0 100%);
 	background-color:#3d94f6;
